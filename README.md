@@ -1,4 +1,3 @@
-# Radar
 # MicroPython Radar System with Web Interface
 
 This project implements a real-time radar system using MicroPython and an ESP32 board. It scans the surroundings with an ultrasonic sensor mounted on a servo motor and serves a live radar visualization through a built-in web server over Wi-Fi. This project does **not** use an OLED display or buzzer.
@@ -25,10 +24,10 @@ This project implements a real-time radar system using MicroPython and an ESP32 
 
 | Component      | ESP32 GPIO |
 |----------------|------------|
-| HC-SR04 Trigger | 5          |
-| HC-SR04 Echo    | 18         |
-| Radar Servo     | 23         |
-| Gun Servo       | 19         |
+| HC-SR04 Trigger| 4          |
+| HC-SR04 Echo   | 5          |
+| Radar Servo    | 27         |
+| Gun Servo      | 25         |
 
 ** I have used 3 Servos as gun. you can modify it how you need. **
 
