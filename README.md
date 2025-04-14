@@ -65,9 +65,10 @@ Make sure the following files are uploaded to the ESP32:
 - Optional: integrate camera module for real-time imaging
 
 
+
 ## 📃 License
 
-This project is developed and maintained by [Taha Samadi]. All rights reserved. No part of this code may be used, modified, or distributed without explicit permission from the author.
+MIT License
 
 ---
 
