@@ -1,4 +1,4 @@
-# This project implements a radar system using MicroPython and an ESP32 By Taha Samadi.
+# This project implements a radar system using MicroPython and an ESP32 By Javin Samadi.
 # Make sure to check the README.md file for detailed setup and usage instructions.
 
 import network
